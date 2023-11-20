@@ -2,5 +2,5 @@
 
 let myButton = document.querySelector('#button1');
 myButton.addeventlistener('click', function(){
-console.log('this is JavaScript');
+console.log("this is JavaScript");
 )};
