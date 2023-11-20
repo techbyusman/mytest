@@ -1,6 +1,6 @@
 "use strict";
 
-let myButton = document.getElementById('button1');
+let myButton = document.querySelector('#button1');
 myButton.addeventlistener('click', function(){
-alert('javascript is working fine');
+console.log('this is JavaScript');
 )};
